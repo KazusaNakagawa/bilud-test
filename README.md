@@ -1,2 +1,2 @@
 # bilud-test
- - build-test
+ - bilud-test
